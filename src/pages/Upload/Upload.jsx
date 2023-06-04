@@ -4,7 +4,7 @@ function Upload() {
     return (
         <div>
             <HeaderUpload />
-            <h1>Upload</h1>
+            <h1>Uploadok</h1>
         </div>
     );
 }
